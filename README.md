@@ -1,6 +1,7 @@
 ## 🔧 Mój Tech Stack
 
 ### ⌨️ Języki programowania
+![JavaScript](https://simpleicons.org/icons/javascript.svg)
 <img src="https://simpleicons.org/icons/javascript.svg" width="40" height="40" /> JavaScript
 <img src="https://simpleicons.org/icons/typescript.svg" width="40" height="40" /> TypeScript
 <img src="https://simpleicons.org/icons/html5.svg" width="40" height="40" /> HTML5
