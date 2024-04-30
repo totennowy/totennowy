@@ -62,3 +62,11 @@ I'm a Web Developer / Frontend Developer currently residing in Rzeszów. I'm pas
 
 ### 📡 Networking
 ![WebSocket](https://img.shields.io/badge/-WebSocket-00ACEE?style=for-the-badge&logo=websocket&logoColor=white)
+
+---
+
+<p align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=totennowy&icon=0&color=8&align=center)](https://visitcount.itsvg.in)
+
+</p>
