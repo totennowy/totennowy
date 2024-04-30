@@ -5,8 +5,8 @@
 I'm a Web Developer / Frontend Developer currently residing in Rzeszów. I'm passionate about building responsive and user-friendly web applications.
 
 ## 📬 Contact Me
-[![Email](https://img.shields.io/badge/Email-depciuch322%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:depciuch322@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bartłomiej_Depciuch-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bart%C5%82omiej-depciuch/)
+[![Email](https://img.shields.io/badge/-depciuch322%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:depciuch322@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Bartłomiej_Depciuch-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bart%C5%82omiej-depciuch/)
 
 ## 🎲 Hobbies
 - **Board Games**: I'm an avid board game enthusiast. Recently, I've been frequently playing "Daimyo" and "Everdell."
